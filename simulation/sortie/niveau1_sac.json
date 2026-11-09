@@ -1,0 +1,58 @@
+[
+  {
+    "piece": "corps",
+    "decalage_mm": [
+      8,
+      -14
+    ],
+    "planeite_mm": 0.29,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 8.9,
+    "temps_calcul_s": 10.4,
+    "ok": true
+  },
+  {
+    "piece": "corps",
+    "decalage_mm": [
+      -29,
+      19
+    ],
+    "planeite_mm": 0.29,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 8.9,
+    "temps_calcul_s": 10.2,
+    "ok": true
+  },
+  {
+    "piece": "anse",
+    "decalage_mm": [
+      6,
+      14
+    ],
+    "planeite_mm": 0.29,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 7.3,
+    "temps_calcul_s": 5.2,
+    "ok": true
+  },
+  {
+    "piece": "anse",
+    "decalage_mm": [
+      26,
+      19
+    ],
+    "planeite_mm": 0.29,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 7.3,
+    "temps_calcul_s": 5.6,
+    "ok": true
+  }
+]

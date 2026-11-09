@@ -1,0 +1,142 @@
+[
+  {
+    "piece": "corps",
+    "decalage_mm": [
+      8,
+      -14
+    ],
+    "planeite_mm": 0.29,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 8.9,
+    "temps_calcul_s": 10.3,
+    "ok": true
+  },
+  {
+    "piece": "corps",
+    "decalage_mm": [
+      -29,
+      19
+    ],
+    "planeite_mm": 0.29,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 8.9,
+    "temps_calcul_s": 10.5,
+    "ok": true
+  },
+  {
+    "piece": "corps",
+    "decalage_mm": [
+      6,
+      14
+    ],
+    "planeite_mm": 0.29,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 8.9,
+    "temps_calcul_s": 10.4,
+    "ok": true
+  },
+  {
+    "piece": "corps",
+    "decalage_mm": [
+      26,
+      19
+    ],
+    "planeite_mm": 0.3,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 8.9,
+    "temps_calcul_s": 10.6,
+    "ok": true
+  },
+  {
+    "piece": "corps",
+    "decalage_mm": [
+      21,
+      -28
+    ],
+    "planeite_mm": 0.29,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 8.9,
+    "temps_calcul_s": 10.6,
+    "ok": true
+  },
+  {
+    "piece": "corps",
+    "decalage_mm": [
+      -19,
+      22
+    ],
+    "planeite_mm": 0.29,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 8.9,
+    "temps_calcul_s": 10.2,
+    "ok": true
+  },
+  {
+    "piece": "corps",
+    "decalage_mm": [
+      -12,
+      -5
+    ],
+    "planeite_mm": 0.3,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 8.9,
+    "temps_calcul_s": 10.3,
+    "ok": true
+  },
+  {
+    "piece": "corps",
+    "decalage_mm": [
+      -23,
+      10
+    ],
+    "planeite_mm": 0.29,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 8.9,
+    "temps_calcul_s": 10.2,
+    "ok": true
+  },
+  {
+    "piece": "corps",
+    "decalage_mm": [
+      7,
+      -7
+    ],
+    "planeite_mm": 0.29,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 8.9,
+    "temps_calcul_s": 10.4,
+    "ok": true
+  },
+  {
+    "piece": "corps",
+    "decalage_mm": [
+      29,
+      11
+    ],
+    "planeite_mm": 0.29,
+    "ecart_max_mm": 0.62,
+    "ecart_moyen_mm": 0.003,
+    "erreur_dimension_mm": 0.0,
+    "temps_simule_s": 8.9,
+    "temps_calcul_s": 10.4,
+    "ok": true
+  }
+]
