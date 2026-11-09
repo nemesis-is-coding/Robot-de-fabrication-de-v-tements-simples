@@ -1,0 +1,17 @@
+<mujoco>
+  <option timestep="0.002" solver="CG" tolerance="1e-6"/>
+  <size memory="50M"/>
+  <worldbody>
+    <light pos="0 0 2" dir="0 0 -1"/>
+    <geom name="sol" type="plane" size="2 2 .1"/>
+    <!-- table : dessus à z = 0.40 m -->
+    <geom name="table" type="box" size="0.4 0.4 0.02" pos="0 0 0.38"
+          friction="1 0.005 0.0001" rgba="0.6 0.45 0.3 1"/>
+    <!-- tissu 0.40 x 0.46 m (pièce "corps" du patron), 21 x 24 sommets -->
+    <flexcomp type="grid" count="21 24 1" spacing="0.02 0.02 0.02"
+              pos="0 0 0.42" radius="0.002" name="cloth" dim="2" mass="0.1">
+      <contact selfcollide="none" friction="1 0.005 0.0001"/>
+      <edge equality="true"/>
+    </flexcomp>
+  </worldbody>
+</mujoco>
